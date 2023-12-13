@@ -1,0 +1,7 @@
+numpy
+opencv-python-headless
+mediapipe
+streamlit
+streamlit_webrtc
+kora
+pyvideoreader
